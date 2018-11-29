@@ -4,21 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 29th,2018
 
 ### Student Name:  
-(First and Last Name)
+Kallayah Henderson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I used an API,Ajax to genereate search results for a movie search engine. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
-
+ https://kallayah26.github.io/lesson8_ajax/.
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. The meaning of JSON is JavaScript Object Notation and XML and it is used to transmit data between a server and a web app.
+2. AJAX means Asynschronous JavaScript and XML. It is a faster way to load content from a web server.
+3. Major websites allow creators to use their APIs to access data, including Twitter, Google and Amazon. 
+4. An Appilcation Programming Interface is a set of instructions that allows creators to access web based software applications.
+5. An API key is needed to access the API your own website, it acts as a unique identifier and authentification process.
